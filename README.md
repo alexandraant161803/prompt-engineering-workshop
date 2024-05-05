@@ -30,8 +30,8 @@ First, we need to get the workshop materials onto your computer by cloning the c
 ### Steps:
 
 1. Open your web browser and go to (https://colab.google)
-2. Click on "New notebook" to start a session: <img width="1323" alt="Screenshot 2024-05-05 at 11 11 32" src="https://github.com/alexandraant161803/prompt-engineering-workshop/assets/50582038/47b4f7e4-9e2e-4bdc-b4a8-0e3fcb452fa2">
-3. Click on File->Upload notebook to the top left: <img width="1245" alt="Screenshot 2024-05-05 at 10 35 45" src="https://github.com/alexandraant161803/prompt-engineering-workshop/assets/50582038/1f12da7a-f82e-4ed5-9f88-9e6aa17b14b2">
+2. Click on "New notebook" to start a session: <img width="1442" alt="Screenshot 2024-05-05 at 12 03 40" src="https://github.com/alexandraant161803/prompt-engineering-workshop/assets/50582038/fbf86974-96f3-433a-b4bd-7c6e1827ac07">
+3. Click on File->Upload notebook to the top left: <img width="1439" alt="Screenshot 2024-05-05 at 12 03 58" src="https://github.com/alexandraant161803/prompt-engineering-workshop/assets/50582038/f71dedae-d6ab-4643-97fd-f6853991108d">
 4. Select the `workshop.ipynb` file from the `promp-engineering-workshop` folder you cloned from this repository earlier.
 6. Once the file is uploaded, you can start the workshop exercises! 
 
