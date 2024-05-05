@@ -29,11 +29,10 @@ First, we need to get the workshop materials onto your computer by cloning the c
 
 ### Steps:
 
-1. Open your web browser and go to (https://jupyter.org/try)
-2. Click on "Jupyter Notebook" to start a session: <img width="1323" alt="Screenshot 2024-05-05 at 11 11 32" src="https://github.com/alexandraant161803/prompt-engineering-workshop/assets/50582038/47b4f7e4-9e2e-4bdc-b4a8-0e3fcb452fa2">
-3. Click on Jupyterlite to the top left: <img width="1245" alt="Screenshot 2024-05-05 at 10 35 45" src="https://github.com/alexandraant161803/prompt-engineering-workshop/assets/50582038/1f12da7a-f82e-4ed5-9f88-9e6aa17b14b2">
-4. In Jupyterlite, click on the Upload button <img width="1242" alt="Screenshot 2024-05-05 at 10 34 06" src="https://github.com/alexandraant161803/prompt-engineering-workshop/assets/50582038/509bf7bc-e9bb-4c01-bcca-56e46a7fbc05">
-5. Select the `workshop.ipynb` file from the `promp-engineering-workshop` folder you cloned from this repository earlier.
-6. Once the file is uploaded, click on it to open and start the workshop exercises.
+1. Open your web browser and go to (https://colab.google)
+2. Click on "New notebook" to start a session: <img width="1323" alt="Screenshot 2024-05-05 at 11 11 32" src="https://github.com/alexandraant161803/prompt-engineering-workshop/assets/50582038/47b4f7e4-9e2e-4bdc-b4a8-0e3fcb452fa2">
+3. Click on File->Upload notebook to the top left: <img width="1245" alt="Screenshot 2024-05-05 at 10 35 45" src="https://github.com/alexandraant161803/prompt-engineering-workshop/assets/50582038/1f12da7a-f82e-4ed5-9f88-9e6aa17b14b2">
+4. Select the `workshop.ipynb` file from the `promp-engineering-workshop` folder you cloned from this repository earlier.
+6. Once the file is uploaded, you can start the workshop exercises! 
 
 **Congratulations!** You are now all set up for the Prompt Engineering Workshop. Enjoy your learning experience!
